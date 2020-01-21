@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">   
+</head>
+    <body>
+        <img src="images/download.jfif">
+        <h1>Fun facts about WW1</h1>
+        <h3>Lots of people died</h3>
+        <a href="www.google.com">Free info here</a>
+        <p>Click the link to find out more</p>
+    </body>
+</html>
